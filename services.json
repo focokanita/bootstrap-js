@@ -1,0 +1,32 @@
+{
+  "services": [
+    {
+      "title": "E-Commerce",
+      "icon": "fas fa-shopping-cart",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    },
+    {
+      "title": "Responsive Design",
+      "icon": "fas fa-laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    },
+    {
+      "title": "Web Security",
+      "icon": "fas fa-lock",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    }
+  ]
+}
+[
+    {"naziv": "Prvi podatak"},
+    {"naziv": "Drugi podatak"},
+    {"naziv": "Treći podatak"}
+]
+{
+    "slike": [
+      {"thumbnail": "thumbnail1.jpg", "image": "image1.jpg"},
+      {"thumbnail": "thumbnail2.jpg", "image": "image2.jpg"},
+      {"thumbnail": "thumbnail3.jpg", "image": "image3.jpg"}
+    ]
+  }
+  
